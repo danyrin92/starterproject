@@ -1,0 +1,17 @@
+{
+  "name": "starterproject",
+  "version": "1.0.0",
+  "description": "simple starter app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Dany R",
+  "license": "ISC"
+}
